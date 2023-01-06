@@ -7,3 +7,10 @@ body{
     background: red;
     color: #fff;
 }
+
+.my-column{
+    background: #000;
+    text-align: center;
+    min-height: 100px;
+    margin-bottom: 30px;
+}

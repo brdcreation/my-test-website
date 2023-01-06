@@ -1,0 +1,25 @@
+Bootstrap Class
+===============
+.container
+    max-with: 1170px
+.container-fluid
+    max-with: 100% - 30px
+
+.row
+=========
+
+Breaking Point (Column)
+==================
+min with           max-with
+----------------------------
+.col-lg (Laptop/Desktop)
+1200px  >= .............
+
+.col-md (Laptop/Desktop)
+992px       to         1199px
+
+.col-sm (Tablet)
+768px       to         991px
+
+.col-xs (Mobile)
+360px       to         767px
